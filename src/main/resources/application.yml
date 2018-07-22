@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: dev
+    
+
+      
+
+    
+    
+    
+    
+gw.details: http://ms-gateway/gw/account/customer-details
+gw.open.account: http://ms-gateway/gw/account/open
+      
